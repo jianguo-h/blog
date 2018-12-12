@@ -6,3 +6,4 @@
 [常见的几种继承方式](https://github.com/jianguo-h/blog/issues/2)
 
 ## Vue
+[组件中的data为什么是个方法](https://github.com/jianguo-h/blog/issues/3)
