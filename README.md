@@ -5,5 +5,7 @@
 
 [常见的几种继承方式](https://github.com/jianguo-h/blog/issues/2)
 
+[浅谈浏览器缓存](https://github.com/jianguo-h/blog/issues/4)
+
 ## Vue
 [组件中的data为什么是个方法](https://github.com/jianguo-h/blog/issues/3)
